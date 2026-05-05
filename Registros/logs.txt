@@ -1,0 +1,42 @@
+[2026-05-05 08:49:44] [INFO] Operación 1 ejecutada correctamente.
+[2026-05-05 08:49:44] [ERROR] Operación 2: El documento del cliente solo debe contener números.
+[2026-05-05 08:49:44] [ERROR] Operación 3: El correo electrónico no es válido.
+[2026-05-05 08:49:44] [INFO] Operación 4 ejecutada correctamente.
+[2026-05-05 08:49:44] [ERROR] Operación 5: El costo base debe ser mayor que cero.
+[2026-05-05 08:49:44] [INFO] Reserva confirmada correctamente.
+[2026-05-05 08:49:44] [INFO] Reserva procesada correctamente. Total: $218000.0
+[2026-05-05 08:49:44] [INFO] Finalizó el intento de procesamiento de reserva.
+[2026-05-05 08:49:44] [INFO] Operación 6 ejecutada correctamente.
+[2026-05-05 08:49:44] [ERROR] Operación 7: La duración de la reserva debe ser mayor que cero.
+[2026-05-05 08:49:44] [ERROR] Operación 8: No se puede confirmar la reserva porque el servicio no está disponible.
+[2026-05-05 08:49:44] [INFO] Reserva confirmada correctamente.
+[2026-05-05 08:49:44] [INFO] Reserva cancelada correctamente.
+[2026-05-05 08:49:44] [INFO] Operación 9 ejecutada correctamente.
+[2026-05-05 08:49:44] [ERROR] La reserva debe estar confirmada antes de procesarse.
+[2026-05-05 08:49:44] [INFO] Finalizó el intento de procesamiento de reserva.
+[2026-05-05 08:49:44] [ERROR] Operación 10: La reserva debe estar confirmada antes de procesarse.
+[2026-05-05 08:49:44] [INFO] Reserva confirmada correctamente.
+[2026-05-05 08:49:44] [INFO] Reserva procesada correctamente. Total: $193800.0
+[2026-05-05 08:49:44] [INFO] Finalizó el intento de procesamiento de reserva.
+[2026-05-05 08:49:44] [INFO] Operación 11 ejecutada correctamente.
+[2026-05-05 09:00:04] [INFO] Operación 1 ejecutada correctamente.
+[2026-05-05 09:00:04] [ERROR] Operación 2: El documento del cliente solo debe contener números.
+[2026-05-05 09:00:04] [ERROR] Operación 3: El correo electrónico no es válido.
+[2026-05-05 09:00:04] [INFO] Operación 4 ejecutada correctamente.
+[2026-05-05 09:00:04] [ERROR] Operación 5: El costo base debe ser mayor que cero.
+[2026-05-05 09:00:04] [INFO] Reserva confirmada correctamente.
+[2026-05-05 09:00:04] [INFO] Reserva procesada correctamente. Total: $218000.0
+[2026-05-05 09:00:04] [INFO] Finalizó el intento de procesamiento de reserva.
+[2026-05-05 09:00:04] [INFO] Operación 6 ejecutada correctamente.
+[2026-05-05 09:00:04] [ERROR] Operación 7: La duración de la reserva debe ser mayor que cero.
+[2026-05-05 09:00:04] [ERROR] Operación 8: No se puede confirmar la reserva porque el servicio no está disponible.
+[2026-05-05 09:00:04] [INFO] Reserva confirmada correctamente.
+[2026-05-05 09:00:04] [INFO] Reserva cancelada correctamente.
+[2026-05-05 09:00:04] [INFO] Operación 9 ejecutada correctamente.
+[2026-05-05 09:00:04] [ERROR] La reserva debe estar confirmada antes de procesarse.
+[2026-05-05 09:00:04] [INFO] Finalizó el intento de procesamiento de reserva.
+[2026-05-05 09:00:04] [ERROR] Operación 10: La reserva debe estar confirmada antes de procesarse.
+[2026-05-05 09:00:04] [INFO] Reserva confirmada correctamente.
+[2026-05-05 09:00:04] [INFO] Reserva procesada correctamente. Total: $193800.0
+[2026-05-05 09:00:04] [INFO] Finalizó el intento de procesamiento de reserva.
+[2026-05-05 09:00:04] [INFO] Operación 11 ejecutada correctamente.
