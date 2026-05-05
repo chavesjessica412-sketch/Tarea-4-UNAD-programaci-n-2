@@ -14,7 +14,7 @@ from datetime import datetime
 
 class ClienteInvalidoError(Exception):
     pass
-
+#mayor que cero.")
 
 class ServicioInvalidoError(Exception):
     pass
